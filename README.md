@@ -2,15 +2,15 @@
 <h1>Hey there 👋, I am Srikar</h1>
       <img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
 
-  📍I am currently pursuing my graduate study in Computer Science at University of Southern California.
+  📍I am currently pursuing my graduate study in Computer Science at the University of Southern California.
 I enjoy learning new technologies and exploring tech.
 
-- Interests: `Data Science`, `Machine Learning engineering`, `Software engineering`
-- 🔭 I’m currently working on ML research projects
+- Interests: `Data Science`, `Machine Learning engineering`, `Software engineering`.
+- 🔭 I’m currently working on ML research projects.
 - 🌱 Currently exploring more in ML.
 - 👯 Looking to collaborate on ML, DL, NLP, Data Science or Data Analytics Projects.
 - 💬 Feel free to drop by a message!
-- 📫 How to reach me: Checkout My Portfolio Website or Social Accounts Given Below
+- 📫 How to reach me: Checkout My Portfolio Website or Social Accounts Given Below.
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸<br><br>
 
 <h1 align="center">
